@@ -2,6 +2,7 @@ html {
     background-color: black;
     color: White;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 .header {
     width: 100%;
@@ -33,4 +34,7 @@ h2 {
 h4 {
     font-size: 21px;
     color: gray;
+}
+footer {
+    padding: 5px;
 }
